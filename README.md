@@ -408,17 +408,6 @@ Content-Type: application/json
 }
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
@@ -433,16 +422,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - **Datasets**: Kaggle cyberbullying and hate speech datasets
 - **Libraries**: scikit-learn, XGBoost, Streamlit, NLTK
 - **Research**: Based on latest cyberbullying detection research
-
----
-
-## 📞 Support & Contact
-
-For issues, questions, or suggestions:
-
-- **GitHub Issues**: [Report a bug](https://github.com/yourusername/cyberbullying-detection/issues)
-- **Email**: your.email@example.com
-- **Documentation**: Check this README and code comments
 
 ---
 
@@ -499,21 +478,6 @@ This project is suitable for:
 
 ---
 
-## 🏆 Awards & Recognition
 
-If you use this project in academic work, please cite:
-
-```
-@software{cyberbullying_detection_2024,
-  title={Advanced Cyberbullying Detection System},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/cyberbullying-detection}
-}
-```
-
----
-
-**Made with ❤️ for a safer internet**
 
 *Last Updated: December 2024*
